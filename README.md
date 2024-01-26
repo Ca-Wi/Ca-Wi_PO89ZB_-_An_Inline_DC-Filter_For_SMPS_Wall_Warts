@@ -4,6 +4,6 @@ You can use it however you like
 
 Mark Johnson article at diyaudio.com: https://www.diyaudio.com/community/threads/po89zb-an-inline-dc-filter-for-smps-wall-warts-preamps-hpa-korg-nutube-etc.354213/#post-6197841
 
-![ACA mini housing](picture/IMG_0848.jpeg)
+![ACA mini housing](picture/IMG_0084.jpeg)
 
 ![ACA mini housing](picture/IMG_0092.jpeg)
